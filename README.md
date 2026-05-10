@@ -2,7 +2,7 @@
 Hello, Im MaskiiFPT
 
 # Currently Progressing In:
-! [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-800080?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-800080?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 # 💻 Tech Stack:
